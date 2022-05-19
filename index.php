@@ -177,11 +177,11 @@
               <form  method="post" action="processa.php">
                 
                                                 
-                <input type="text" name="nome" class="campo" maxlength="40" placeholder="Digite seu nome" required autofocus> <br>
+                <input type="text" name="nome" class="campo" maxlength="40" placeholder=" Digite seu nome " required autofocus> <br>
                 <br>
-                <input type="text" name="email" class="campo" maxlength="50" placeholder="Digite seu e-mail" required > <br>
+                <input type="text" name="email" class="campo" maxlength="50" placeholder=" Digite seu e-mail " required > <br>
                 <br>
-                <input type="text" name="mensagem" class="campo" maxlength="50" placeholder="Onde conheceu a HwEstágios" required >
+                <input type="text" name="mensagem" class="campo" maxlength="50" placeholder=" Onde conheceu a HwEstágios " required >
                 
                 <input type="submit" value="salvar" class="btn">
               
