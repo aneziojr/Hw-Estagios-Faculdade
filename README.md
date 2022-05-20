@@ -4,13 +4,10 @@ Projeto da Faculdade de TADS
 
 
 
-## Tarefas
 
-o controle de tarefas desse projeto sera realizado pelo GitHub
 
-📅 17/10 - Criação do menu
-📅 19/10 - Crianção da caixa vantagens ( Falta Colocar os icones)
-📅 23/10 - **LEMBRETE** - Colocar icones na parte de vantagens
+📅 19/05/2022 - Site em construção para o projeto da facudade.
+
 
 ## Icones
 
