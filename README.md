@@ -16,7 +16,7 @@ Projeto da Faculdade de TADS
 - :zap: Correção de bug<br>
 - :checkered_flag: Release<br>
 
-<a href="https://aneziojr.github.io/Hw-Estagios-Faculdade/" target="_blank">Executar o site</a>
+
 
 
 
