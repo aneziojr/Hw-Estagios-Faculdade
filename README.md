@@ -6,7 +6,7 @@ Projeto da Faculdade de TADS
 
 
 
-📅 19/05/2022 - Site em construção para o projeto da facudade.
+📅 19/05/2022 - Site em construção para o projeto da faculdade.
 
 
 ## Icones
